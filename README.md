@@ -1,16 +1,35 @@
-# gesti-n-art-culos-app
-Aplicación de escritorio desarrollada en C# y WinForms que facilita la administración y gestión de cualquier catalogo comercial.
+🛠️ Gestion-articulos-app
 
-Características Principales:
+Aplicación de escritorio desarrollada en C# y WinForms que facilita la administración y gestión de cualquier catálogo comercial.
 
-* Visualización Detallada: Utilizando un DataGridView, la aplicación muestra una tabla que incluye campos esenciales como código de artículo, nombre, descripción, marca, categoría, imagen y precio, permitiendo una visualización completa de la información de los artículos.
 
-* Gestión Completa: Ofrece funcionalidades completas de alta, baja (tanto de registros individuales como de la base de datos completa) y modificación de registros, lo que permite a los usuarios realizar operaciones como agregar, eliminar y modificar registros de manera eficiente.
+🌟 Características Principales:
 
-* Filtrado Avanzado: La aplicación cuenta con un sistema de filtrado avanzado que permite a los usuarios realizar búsquedas específicas de artículos utilizando distintos campos, lo que facilita la localización de información específica dentro del catálogo.
+🖼️ Visualización Detallada: Utilizando un DataGridView, la aplicación muestra una tabla con campos esenciales como código de artículo, nombre, descripción, marca, categoría, imagen y precio, brindando una visión completa de la información de los artículos.
 
-Instrucciones de Uso:
 
-1- Clonación y Configuración: Clona este repositorio y abre la solución en Microsoft Visual Studio. Configura la conexión a tu base de datos SQL Server en el archivo de configuración de la aplicación.
+⚙️ Gestión Completa:
 
-2- Ejecución de la Aplicación: Ejecuta la aplicación para gestionar la información de los artículos del catálogo comercial. Utiliza las opciones proporcionadas para realizar operaciones como agregar, eliminar y modificar registros según sea necesario.
+Funcionalidades de alta, baja (individual o masiva) y modificación de registros.
+
+Permite agregar, eliminar y modificar artículos de manera eficiente.
+
+
+🔎 Filtrado Avanzado:
+
+Cuenta con un sistema de búsqueda avanzada que permite filtrar artículos por distintos campos, facilitando la localización rápida de la información en el catálogo.
+
+
+📋 Instrucciones de Uso:
+
+1- Clonación y Configuración:
+
+Clona este repositorio y abre la solución en Microsoft Visual Studio.
+
+Configura la conexión a tu base de datos SQL Server en el archivo de configuración de la aplicación.
+
+2- Ejecución de la Aplicación:
+
+Ejecuta la aplicación para gestionar la información de los artículos del catálogo comercial.
+
+Utiliza las opciones disponibles para agregar, eliminar y modificar registros según sea necesario.
