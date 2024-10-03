@@ -22,14 +22,32 @@ Cuenta con un sistema de búsqueda avanzada que permite filtrar artículos por d
 
 📋 Instrucciones de Uso:
 
-1- Clonación y Configuración:
+Sigue estos pasos para clonar y ejecutar la aplicación en tu entorno local:
 
-Clona este repositorio y abre la solución en Microsoft Visual Studio.
+1- Clonar el repositorio:
 
-Configura la conexión a tu base de datos SQL Server en el archivo de configuración de la aplicación.
+Abre tu terminal y usa el siguiente comando:
 
-2- Ejecución de la Aplicación:
+```
+git clone https://github.com/FacundoLoureiro/gestion-articulos-app.git
+```
 
-Ejecuta la aplicación para gestionar la información de los artículos del catálogo comercial.
+2- Navegar al directorio del proyecto:
 
-Utiliza las opciones disponibles para agregar, eliminar y modificar registros según sea necesario.
+```
+cd gestion-articulos-app
+```
+
+3- Abrir el proyecto en Visual Studio:
+
+ • Abre Microsoft Visual Studio y carga la solución del proyecto desde el directorio clonado.
+ 
+4- Configurar la conexión a la base de datos:
+
+ • Configura la conexión a tu base de datos SQL Server en el archivo de configuración de la aplicación (app.config).
+ 
+5- Ejecutar la aplicación:
+
+ • Desde Visual Studio, ejecuta el proyecto para gestionar el catálogo comercial.
+ 
+ • Podrás realizar operaciones como agregar, eliminar y modificar registros de los artículos.
